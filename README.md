@@ -1,2 +1,3 @@
-# Banking-system-mysql
-Banking &amp; Finance System using MySQL with procedures, triggers, and analytical queries
+## Overview
+This project simulates a banking system using MySQL.
+Updated README with project details
