@@ -4,27 +4,12 @@ This project simulates a real-world banking system using MySQL. It includes cust
 
  ##Database Design##
 The system consists of 6 core tables:
-1)customers → Stores customer details
-2)accounts → Stores account information
-3)transactions → Records all financial transactions
-4)loans → Manages loan details
-5)emi_schedule → Tracks EMI payments
-6)audit_log → Logs all system activities
-
-## Features ##
-✅ Stored Procedures
-Generate EMI Schedule automatically
-Fund Transfer with ACID properties
-✅ Triggers
-Detect large withdrawals (Fraud detection)
-Block transactions on frozen/closed accounts
-Automatically log balance changes
-✅ Advanced SQL Queries
-Window functions (RANK)
-Common Table Expressions (CTE)
-Multi-table JOINs
-Aggregations and reporting
-Fraud detection reports
+1)customers - Stores customer details
+2)accounts - Stores account information
+3)transactions - Records all financial transactions
+4)loans - Manages loan details
+5)emi_schedule - Tracks EMI payments
+6)audit_log - Logs all system activities
 
  How to Run the Project
 
